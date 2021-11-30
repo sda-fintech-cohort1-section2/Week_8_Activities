@@ -2,6 +2,8 @@
 
 In this challenge we invite the student to create a free IBM RPA lab account.
 
+https://www.ibm.com/products/robotic-process-automation
+
 ![plot](./screenshots/IBM_RPA_FM.JPG)
 
 
