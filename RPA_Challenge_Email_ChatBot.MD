@@ -21,7 +21,7 @@ Open any of the example chatbots from the samples folder in IBM RPA Studio.
 
 ![plot](./screenshots/Chat_1.JPG)
 
-And then proceed to modify and add a Send Email action to send some communication from your ChatBot to yourself.m 
+And then proceed to modify and add a Send Email action to send some communication from your ChatBot to yourself. 
 
 ![plot](./screenshots/Email.JPG)
 
